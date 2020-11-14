@@ -31,19 +31,4 @@ Softwares-: Anaconda for Jupter Notebook
 - Price: The price of the used car in INR Lakhs.
 
 ## Project Implementation:
-
-1. Clean Data(Null value removal, Outlier identification)
-
-2. Null Values(Dropping the rows /Columns and what is the reason or how you are imputing the null).
-
-3. EDA(Minor Project to understand the relations, repeat the same here)
-
-4. Handle Categorical Variable(Using Label Encoding/One hot encoding)
-
-5. Try to do data scaling for Kilometers driven
-
-6. Do the train test  split
-
-7. Apply different ML regression Algorithms
-
-8. Calculate the error metrics.
+- Covers the cleaning of data, applying encoding techniques, train test split, applying regression techniques and finding error metrics.
