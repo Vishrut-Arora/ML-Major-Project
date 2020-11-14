@@ -2,7 +2,7 @@
 Softwares-: Anaconda for Jupter Notebook
 
 ## Problem Statement: 
-- You will be predicting the costs of used cars given the data collected from various sources and distributed across various locations in India.
+- Predicting the costs of used cars given the data collected from various sources and distributed across various locations in India.
 
 ## Features of the data set:
 
